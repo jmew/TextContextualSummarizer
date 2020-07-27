@@ -1,1 +1,4 @@
 bert-extractive-summarizer
+spacy
+transformers
+neuralcoref
