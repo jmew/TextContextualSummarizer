@@ -1,7 +1,6 @@
 import os
 
 from flask import Flask, request, make_response, jsonify
-from werkzeug.util import secure_filename
 from transcribe import transcribe_text, summarize_text
 import requests as rq
 
@@ -26,7 +25,7 @@ def upload_transcript():
 
     raw_transcript_file = request.files['transcript']
 
-    filepath = os.path.join(app.config['UPLOAD_FOLDER'], secure_filename(raw_transcript_file.filename))
+    filepath = os.path.join(app.config['UPLOAD_FOLDER'], raw_transcript_file.filename)
 
     raw_transcript_file.save(filepath)
 
