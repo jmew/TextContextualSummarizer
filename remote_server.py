@@ -1,3 +1,5 @@
+import os
+
 from flask import Flask, request, make_response, jsonify
 from werkzeug import secure_filename
 from transcribe import transcribe_text, summarize_text
@@ -23,11 +25,13 @@ def upload_transcript():
 
     raw_transcript_file = request.files['transcript']
 
-    raw_transcript_file.save(secure_filename(raw_transcript_file.filename))
+    filepath = os.path.join(app.config['UPLOAD_FOLDER'], secure_filename(raw_transcript_file.filename))
+
+    raw_transcript_file.save(filepath)
 
     response_body = {
         "message": "File uploaded!",
-        "transcript_filepath": f"{app.config['UPLOAD_FOLDER']}/{raw_transcript_file.filename}" 
+        "transcript_filepath": filepath 
     }
 
     return make_response(jsonify(response_body), 200)
