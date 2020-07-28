@@ -1,7 +1,7 @@
 import os
 
 from flask import Flask, request, make_response, jsonify
-from werkzeug import secure_filename
+from werkzeug.util import secure_filename
 from transcribe import transcribe_text, summarize_text
 import requests as rq
 
