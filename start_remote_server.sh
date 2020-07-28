@@ -1,4 +1,4 @@
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 export FLASK_APP=remote_server.py
 
