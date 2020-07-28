@@ -9,8 +9,8 @@ app.config['UPLOAD_FOLDER'] = "./raw_transcripts"
 def hello_world():
     return "hello world from Kalmiya API"
 
-@app.route("/summarize", methods=['POST'])
-def summarize():
+@app.route("/upload_transcript", methods=['POST'])
+def upload_transcript():
     if request.method != 'POST' or 'transcript' not in request.files:
         response_body = {
             "message": "Invalid request method or transcript file missing.",
@@ -25,9 +25,30 @@ def summarize():
 
     raw_transcript_file.save(secure_filename(raw_transcript_file.filename))
 
+    response_body = {
+        "message": "File uploaded!",
+        "transcript_filepath": f"{app.config['UPLOAD_FOLDER']}/{raw_transcript_file.filename}" 
+    }
+
+    return make_response(jsonify(response_body), 200)
+
+@app.route("/summarize", methods=['POST'])
+def summarize():
+    if request.method != 'POST' or not request.is_json:
+        response_body = {
+            "message": "Invalid request method or request is not JSON.",
+            "summary": ""
+        }
+
+        return make_response(jsonify(response_body), 400)
+
+    req = request.get_json()
+
+    transcript_filepath = req.get('transcript_filepath')
+
     print("Converting raw transcription...")
 
-    with open(f"./raw_transcripts/{raw_transcript_file.filename}", "rb") as raw_transcript:
+    with open(f"./{transcript_filepath}", "rb") as raw_transcript:
         transcript = transcribe_text(raw_transcript)
 
     print("Summarizing raw transcription...")

@@ -22,13 +22,26 @@ def summarize():
     
     files = {'transcript_': open(file_path, 'rb')}
 
-    response = rq.post(f"http://{remote_server_host}/summarize", files=files)
+    upload_response = rq.post(f"http://{remote_server_host}/upload_transcript", files=files)
 
-    if response.status_code != 200:
-        return "Remote server failure", 400
+    if upload_response.status_code != 200:
+        return "Remote server upload failure", 400
 
-    response_dict = json.loads(response.json())
+    upload_response_dict = json.loads(upload_response.json())
 
-    summary = response_dict['summary']
+    server_transcript_filepath = upload_response_dict['transcript_filepath']
+
+    summary_request_body = {
+        "transcript_filepath": server_transcript_filepath
+    }
+
+    summarize_response = rq.post(f"http://{remote_server_host}/summarize", json=summary_request_body)
+
+    if summarize_response.status_code != 200:
+        return "Remote server summarize failure", 400
+
+    summarize_response_dict = json.loads(summarize_response.json())
+
+    summary = summarize_response_dict['summary']
 
     create_draft_email(summary)
