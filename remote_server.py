@@ -3,6 +3,7 @@ import os
 from flask import Flask, request, make_response, jsonify
 from werkzeug import secure_filename
 from transcribe import transcribe_text, summarize_text
+import requests as rq
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = "./raw_transcripts"
@@ -53,6 +54,42 @@ def summarize():
     print("Converting raw transcription...")
 
     with open(f"./{transcript_filepath}", "rb") as raw_transcript:
+        transcript = transcribe_text(raw_transcript)
+
+    print("Summarizing raw transcription...")
+
+    summary = summarize_text(transcript)
+
+    response_body = {
+        "message": "Valid JSON", 
+        "summary": summary
+    }
+
+    return make_response(jsonify(response_body), 200)
+
+@app.route("/url_summarize", methods=['POST'])
+def summarize():
+    if request.method != 'POST' or not request.is_json:
+        response_body = {
+            "message": "Invalid request method or request is not JSON.",
+            "summary": ""
+        }
+
+        return make_response(jsonify(response_body), 400)
+
+    req = request.get_json()
+
+    transcript_url = req.get('downloadUrl')
+    transcript_filepath = os.path.join(app.config['UPLOAD_FOLDER'], req.get('fileName'))
+
+    res = rq.get(transcript_url)
+
+    with open(transcript_filepath, 'wb') as transcript_file:
+        transcript_file.write(res.content)
+
+    print("Converting raw transcription...")
+
+    with open(transcript_filepath, "rb") as raw_transcript:
         transcript = transcribe_text(raw_transcript)
 
     print("Summarizing raw transcription...")
