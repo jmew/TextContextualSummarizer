@@ -10,7 +10,7 @@ if __name__ == "__main__":
         print("Invalid upload_response...")
         
     else:
-        upload_response_dict = json.loads(upload_response.json())
+        upload_response_dict = upload_response.json()
     
         server_transcript_filepath = upload_response_dict['transcript_filepath']
 
@@ -24,6 +24,6 @@ if __name__ == "__main__":
             print("Remote server summarize failure")
 
         else:
-            summarize_response_dict = json.loads(summarize_response.json())
+            summarize_response_dict = summarize_response.json()
 
             summary = summarize_response_dict['summary']

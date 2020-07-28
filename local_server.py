@@ -27,7 +27,7 @@ def summarize():
     if upload_response.status_code != 200:
         return "Remote server upload failure", 400
 
-    upload_response_dict = json.loads(upload_response.json())
+    upload_response_dict = upload_response.json()
 
     server_transcript_filepath = upload_response_dict['transcript_filepath']
 
@@ -40,7 +40,7 @@ def summarize():
     if summarize_response.status_code != 200:
         return "Remote server summarize failure", 400
 
-    summarize_response_dict = json.loads(summarize_response.json())
+    summarize_response_dict = summarize_response.json()
 
     summary = summarize_response_dict['summary']
 
