@@ -84,8 +84,14 @@ def url_summarize():
 
     res = rq.get(transcript_url)
 
+    print("Received transcript URL...")
+
+    print("Downloading transcript...")
+
     with open(transcript_filepath, 'wb') as transcript_file:
         transcript_file.write(res.content)
+
+    print("Transcript downloaded...")
 
     print("Converting raw transcription...")
 
@@ -102,3 +108,6 @@ def url_summarize():
     }
 
     return make_response(jsonify(response_body), 200)
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", debug=True)
