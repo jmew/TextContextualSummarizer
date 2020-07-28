@@ -1,0 +1,784 @@
+WEBVTT
+
+0:0:0.0 --> 0:0:3.330
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>We have like a summary for this meeting. Just talk about random **** right? So.</v>
+
+0:0:4.430 --> 0:0:22.400
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Oh, I mean like we are summary like like a I wanted to just get progress report I guess like status if everyone knows what they're working. Yeah, you know you have to. Yeah exactly. I was gonna look disapprovingly like like Asian parents, you know.</v>
+
+0:0:4.870 --> 0:0:5.970
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>I I would yeah.</v>
+
+0:0:7.980 --> 0:0:8.370
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:0:11.610 --> 0:0:18.340
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Even lots of progress report from each one of us. OK, make sure you don't disappoint. Process going to fire you.</v>
+
+0:0:17.130 --> 0:0:17.470
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Right?</v>
+
+0:0:23.560 --> 0:0:32.290
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>And this only and yeah, um, yeah. So like I think like a like we can just go around the room and say like what what you're working on?</v>
+
+0:0:33.540 --> 0:0:34.350
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>I don't know.</v>
+
+0:0:33.930 --> 0:0:34.780
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>Like a stand up.</v>
+
+0:0:35.100 --> 0:1:3.300
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, right like like the whole idea was like I wanted to just set this up as a standup right? I think I like my end I I talked to a few of the people that Jeffrey mentioned. You know like the UX guy and then he like he was able to connect me with a bunch of designers on the team's team. Yeah yeah, so so that's why they could. I also like I have a friend who is also designer. She's able to help out on Tuesday for a bit, but she was able to.</v>
+
+0:0:37.430 --> 0:0:37.660
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Sure.</v>
+
+0:0:52.800 --> 0:0:53.410
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Awesome.</v>
+
+0:1:3.590 --> 0:1:30.840
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Give us access to the figma components for teams so like if we actually want to mock that stuff out. Um, yeah. So like we have some assets I think like a in terms of a live video, it's going to be really hard to mock out because we don't actually have a designer, but I'm thinking like at the very least we could have screenshots. Depending on how well the live demo portion works, we could even just record that and put that on at the presentation, right?</v>
+
+0:1:10.110 --> 0:1:10.530
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Awesome.</v>
+
+0:1:33.320 --> 0:1:33.600
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:1:33.860 --> 0:1:44.0
+<v b233e3b4-795e-46a8-8693-02be3ad11a41@72f988bf-86f1-41af-91ab-2d7cd011db47>I think I know how to use a. I've been playing with it like Figma just now, so I think I can put together like in animated demo for us to put in the video.</v>
+
+0:1:44.370 --> 0:2:3.860
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Osch it OK? That's like, yeah that that's really awesome. Yeah, so I think all the resources that I got so far I put them in the resources tab for like the resources page on OneNote so you could take a look there for the components. There's this thing called fluent UI which is there. Open source GitHub.</v>
+
+0:2:4.690 --> 0:2:5.80
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:2:4.840 --> 0:2:7.150
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Oh OK, I see. Yeah so then that one.</v>
+
+0:2:6.370 --> 0:2:14.20
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>It's um, it's all Microsoft, so it's like what all the Theming is for. All the Microsoft products, like word Azure, everything, yeah.</v>
+
+0:2:14.100 --> 0:2:16.650
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Oh OK OK yeah. So so that one has.</v>
+
+0:2:15.750 --> 0:2:19.440
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>'cause I had used and you have four? Yeah, it's pretty interesting.</v>
+
+0:2:19.90 --> 0:2:33.450
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, so that one probably has teams as well, um, but that's mostly what I what I had. I reached out to like the the data science kind of like ask to join but he's in HID or a bad so I don't know how it's gonna work.</v>
+
+0:2:32.440 --> 0:2:40.510
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, I didn't realize was the India. I saw animals like whoa, OK that timing is not going to work out for like it's gonna be tough.</v>
+
+0:2:34.920 --> 0:2:35.220
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:2:37.470 --> 0:2:37.830
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:2:41.420 --> 0:2:55.770
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, I mean I I work with offer people so maybe maybe the timing works, but I I pinged him and we'll see what comes out of it. But so far nothing too much on like the NLP side I think yeah.</v>
+
+0:2:58.0 --> 0:3:4.900
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>But that's that's that's what I had. But like looking to just like work with Jeffrey on the presentation, I guess afterwards.</v>
+
+0:3:5.800 --> 0:3:6.180
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Well.</v>
+
+0:3:6.990 --> 0:3:9.540
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, I I saw like you got a lot of.</v>
+
+0:3:8.320 --> 0:3:9.220
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Where are we?</v>
+
+0:3:10.660 --> 0:3:11.670
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Oh sorry continue.</v>
+
+0:3:12.10 --> 0:3:13.220
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Oh no, let's go ahead.</v>
+
+0:3:12.440 --> 0:3:12.690
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>But</v>
+
+0:3:13.660 --> 0:3:14.760
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>No, we were going to say.</v>
+
+0:3:15.120 --> 0:3:22.340
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>I was going to say, like I, I saw like there's a bunch of the user research that that said said got yeah it will.</v>
+
+0:3:22.910 --> 0:3:23.150
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>so.</v>
+
+0:3:23.200 --> 0:3:54.430
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>So yeah, so I'll talk quickly about that. It was funny when Jeffrey mentioned that we don't need to do anything about problem validation. 'cause I was like, well, that's literally all the kind of. Well, part part of part of what I wanted to do was problem allocation and then the other part was was, you know, to briefly touch on what exactly we're working on to see how it relates to what people are trying to do on day today with the meetings that they were part of. So I talked to.</v>
+
+0:3:54.490 --> 0:4:24.500
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Nine people today, um, and honestly like everything that we've discussed so far, has been validated. So these are people that are attending meetings multiple times per day with many different people. There are motivated to take notes and the biggest difficulty that they have is the context. Switching right. So going from the meeting that they're part of to the notes that they're writing some of these. Some of them are writing things on pen and paper because they don't want to context switch like while they're on their computer and and so.</v>
+
+0:4:24.550 --> 0:4:55.390
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>They're looking for ways in which they can be as attentive as an as engaged and as engaged as possible during those meetings, but then end up with an artifact in outlook because almost every single person I talked to ends up sending a follow up Mail that includes things like action items. So it's like what are the follow ups that we need to have? Heuer their followups related to do we need to have meeting invite? Like do I need to schedule a follow up meeting with the person that has an action item associated with them? How do I link the action item back to.</v>
+
+0:4:55.540 --> 0:5:26.840
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Things like Azure, DevOps, GitHub, GitHub, Super popular amongst developers, Azure DevOps, More popular around like a amongst content developers but but yeah, but I think The funny thing is not a lot of people know about live captions or not. A lot of people record their meetings, which is interesting so I was like how much of that is like what do you need to get prompted to record a meeting and they said well if somebody is not there then I'm more inclined to record. So maybe there's some thought around you know.</v>
+
+0:5:26.890 --> 0:5:44.780
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Should we make this thing just transcribe and summarize by default? Or if it if we want users to opt in, how do we make them more aware that they could even do that, right? 'cause they're kind of, they go jump into the meeting and then they get started. They don't even like they don't bother recording. They don't bother looking at live caption options. Things like that.</v>
+
+0:5:46.340 --> 0:6:16.810
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Then yeah, so I I still have to go through each of the nodes that I have for some some of the bigger takeaways but but I think like Michelle, part of what I wanted, part of what I added as comments in this back where you know, let's go. Let's go with the meeting invite thing the follow up meeting invite. I think that's super cool, just organization of things in that in the email content so action items are always the first thing, right? So like I don't care if you can summarize something, tell me what my action items are. Put them there at the very top.</v>
+
+0:6:17.110 --> 0:6:47.540
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>And then based on the person that they're referring to, and then if I need to follow up meeting with them, then schedule that follow up meeting for me. The other thing was a lot of people will take notes and then they will rewrite the notes based off of either things that they feel like is better suited to their own tone or things that they think makes sense to the broader audience. And so I was like, well, could we. This is me like a remembering should I saw on Twitter with what GPT is doing of like being able to take someone style of writing and then.</v>
+
+0:6:47.590 --> 0:7:12.50
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>And then tweeting based off of that right? So it's almost like can we? Can we get the email body and even the nodes that we summarized in the tone of the person that originally started in the meeting was another thing that came out of the interviews. But also everybody said that what we were like the the what we were thinking about, which I always just pitched at the very end was super interesting and they want to be.</v>
+
+0:7:12.940 --> 0:7:24.210
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>But if they can, they want to see a a demo of it to give feedback on. So I was like that will weaken. We're dreaming, but I don't know how far we're going to get to by the end of Wednesday, so.</v>
+
+0:7:24.810 --> 0:7:25.700
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Three is going to carry.</v>
+
+0:7:26.840 --> 0:7:27.470
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:7:27.50 --> 0:7:28.70
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Basically.</v>
+
+0:7:27.90 --> 0:7:27.780
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Jeffrey.</v>
+
+0:7:30.90 --> 0:7:32.870
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, so that's pretty much all of what today was.</v>
+
+0:7:30.390 --> 0:7:30.750
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Well.</v>
+
+0:7:33.30 --> 0:7:57.810
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Well, I have a few questions. OK so on the comment of a context switching. Is this like the scenario where let's just say individual has like multiple meetings? Throw today and they're all on like different subject matters and so the reason why people take notes for instance on like pen and paper is because they don't like what's the correlation there between context, which again like using pen and paper.</v>
+
+0:7:35.260 --> 0:7:35.620
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:7:39.350 --> 0:7:39.650
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:8:0.220 --> 0:8:18.60
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>For using pen and paper, because it it it is because it's faster than having to switch from the meeting that I'm part of right now to things like OneNote or email, right? And so it's almost easy for me to just happen something here that I can just quickly write on. What's up with the example, yeah?</v>
+
+0:8:2.920 --> 0:8:3.220
+<v b233e3b4-795e-46a8-8693-02be3ad11a41@72f988bf-86f1-41af-91ab-2d7cd011db47>It.</v>
+
+0:8:15.960 --> 0:8:16.380
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:8:16.400 --> 0:8:18.170
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Oh OK, interesting.</v>
+
+0:8:17.650 --> 0:8:34.700
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, like I I use pen and paper to like it's 'cause like my surface just craps out when a run like you know. Meetings happen and like I just can't switch between one note and teams fast enough. And also whenever I'm presenting I'm also like not able to pull up OneNote right? So like.</v>
+
+0:8:28.810 --> 0:8:29.290
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:8:33.950 --> 0:8:42.400
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Do you know how to exploit external monitor? I I could see that being a problem when you like are presenting with only one screen and it's.</v>
+
+0:8:34.260 --> 0:8:34.970
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Exactly.</v>
+
+0:8:37.10 --> 0:8:37.450
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:8:43.140 --> 0:8:45.460
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>You wouldn't want us. OK, that's that. That makes sense.</v>
+
+0:8:43.810 --> 0:8:44.340
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:8:45.70 --> 0:9:18.100
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>So, so all the people that talked about that example said like talked about being in the single monitor single window case, right? The context switching was a little more obvious for them, but but another another big thing is like these. Are they? By writing, they're just scribbling something that makes sense to them, and then they look at it after the fact, right? And they try and digest all of the little quick things that they've written down into things that they can then share with others, right? And so it's almost like they felt that writing something down was just very natural and very easy to put.</v>
+
+0:8:45.960 --> 0:8:46.350
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:8:54.780 --> 0:8:56.550
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>OK, OK, that makes sense.</v>
+
+0:9:11.110 --> 0:9:12.100
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, OK.</v>
+
+0:9:18.160 --> 0:9:50.790
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Um in, in their own words, as opposed to having to alt tab. Go for my teams meeting to something else other another user I talked to was like, oh, I also don't want to make it seem like I'm not engaged with the person that I'm talking to. And when I'm context when I'm like switching between windows, it may make that apparent right? And so it's like talking to you right now. I could be writing just like something scribbling and you almost wouldn't be able to tell there was someone else that said that typing during meetings was annoying to the person on the other end, so it's like.</v>
+
+0:9:23.710 --> 0:9:24.190
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:9:38.0 --> 0:9:38.470
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>OK.</v>
+
+0:9:50.850 --> 0:9:59.550
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>And that was that was kind of interesting. But yeah, not so not so much related to context switching as it just was. This was this was a nuisance to that so.</v>
+
+0:10:3.300 --> 0:10:23.40
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, I don't. I don't know, but um, when when you were talking to the Devs and like other your other interviewees when they said that like all they want like integration with like GitHub or like ADL like? What exactly are they looking for? I I like the first thing that popped the first and only that popped to my mind was like oh like a link to a PR or something that's that's like.</v>
+
+0:10:9.280 --> 0:10:9.540
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Yep.</v>
+
+0:10:22.580 --> 0:10:54.510
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Right, so showing up in GitHub it could be GitHub issues, so like in there may be a follow up item so one of the one of the engineers I spoke to, he said like I might have a follow up item that is related to an issue that I need a partner team to look at right? And so it's it's automatically creating that GitHub issue on their behalf and then having a really easy way for them to link that issue into their email that they're eventually going to send, right? 'cause they need to do they not only need to create the issue that they also need to make the other person aware that that issue has been created?</v>
+
+0:10:23.770 --> 0:10:24.510
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Like Yeah.</v>
+
+0:10:54.800 --> 0:11:1.910
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>In other ways you can do it is by tagging them in the issue the other way you can do it is by sending a follow up Mail more broadly, so that more people can see it.</v>
+
+0:11:2.120 --> 0:11:2.660
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>OK.</v>
+
+0:11:3.270 --> 0:11:34.210
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>And another thing they brought up was like a. I'm often creating new pages in one note per meeting that I'm a part of right? And I'm using like OneNote or even something like SharePoint as an active log of all of the things that happened from meeting to meeting, especially in the case of referring meetings, and so they thought that it would be nice if something just automatically created a new page so long as it knows where to create that right, and then relates that to this recurring meeting that I'm not. I'm a product, so like the system.</v>
+
+0:11:34.260 --> 0:11:41.310
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Adding context of all of the different recurring meetings that you have and then correctly categorizing them and creating new artifacts for each one.</v>
+
+0:11:42.20 --> 0:11:47.850
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>But yeah, I was asked that though. I mean that was. That was obviously pretty complex.</v>
+
+0:11:42.430 --> 0:11:42.660
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>OK.</v>
+
+0:11:43.200 --> 0:11:43.620
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:11:48.420 --> 0:11:49.210
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Um?</v>
+
+0:11:48.760 --> 0:11:49.350
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Next</v>
+
+0:11:51.190 --> 0:12:21.950
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>I I want to add like maybe this is just a comment. I feel like my hypothesis as to why people don't record meetings, assuming that they know that exists is, I feel like when you like go from meeting to meeting of like 30 minutes like or like an hour of time and like you know it's like super ideally go at the end of the day all like review by like meeting videos. But like in reality that's like really time consuming. So just like adding to like our product like Yeah you know it would be nice if you just have like a summary of text right? Instead of having to review like a video.</v>
+
+0:12:20.260 --> 0:12:20.720
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:12:22.540 --> 0:12:53.800
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>So recording meetings also only really happen if people felt like someone who should be at the meeting was not there at that meeting, right? So that almost prompted them was like, Oh, OK, wait, I should probably be record this so that I can do so that so then that person can look at it afterwards. Another thing was that they said if I'm trying to take notes during a meeting and I'm not going to talk time note taking while also trying to understand what the person is talking about, then I'll be like, wait, I'm not going to take notes. I'm just going to record the meeting so I can look at it afterwards.</v>
+
+0:12:30.120 --> 0:12:31.500
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>OK, that's Fair.</v>
+
+0:12:30.260 --> 0:12:30.700
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:12:53.850 --> 0:13:14.240
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>The percentage of people that actually looked at the meetings afterwards, though it was very low, right? So even though they were recording it, it's not like they were doing anything with it. 'cause 'cause? Yeah, 'cause If it's an hour long meeting, that's another extra hour of going in processing that information, right? Whereas it would be nice if something could give me a summary or like highlight all of the key concepts that were part of the meeting.</v>
+
+0:12:59.930 --> 0:13:0.260
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:13:14.720 --> 0:13:28.370
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah yeah, like the the the reason people record stuff right is for the fear of like missing something and so if we're able to summarize, summarize that in a way and that captures the key elements. I think it defeats the purpose of needing to record, right?</v>
+
+0:13:29.440 --> 0:13:44.330
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah for sure. I yeah nobody on my team ever record any meetings. Even if someone is away like I think. The closest I've seen is like this junior PM on like a different team like I think she likes started relatively recently. She like recorded the video or she recorded the meeting.</v>
+
+0:13:45.330 --> 0:13:45.870
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>But yeah.</v>
+
+0:13:46.890 --> 0:13:47.200
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:13:49.520 --> 0:13:49.910
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Cool.</v>
+
+0:13:51.460 --> 0:13:52.140
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Cool cool.</v>
+
+0:13:54.250 --> 0:13:57.540
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Right, I don't know. Job Jeffrey, you want to demo for?</v>
+
+0:14:0.660 --> 0:14:15.630
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>OK, I just I was just trying to get the teams out to work in those board to see like how hard it is. It's kind of hard. It is in like pretty proprietary stuff API's so like getting set up and like trying to learning curve of how to use like develop teams. App is like kind of hard so I don't know how.</v>
+
+0:14:9.710 --> 0:14:10.250
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:14:16.460 --> 0:14:22.160
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>How much we can actually get done for that, but I'll see based on how much I can get them tomorrow I guess.</v>
+
+0:14:22.840 --> 0:14:26.650
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, so you could get it to get it to chat with you, right?</v>
+
+0:14:23.380 --> 0:14:24.630
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>But As for the.</v>
+
+0:14:27.740 --> 0:14:32.440
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, but I mean like it's really basic. It's like the default app is actually.</v>
+
+0:14:33.560 --> 0:14:44.170
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>That's why I guess for the code I just got some like Google models work, but I don't know how good it is 'cause I didn't have a good example, tested with, I don't think it's bad, but I don't have getting this right.</v>
+
+0:14:45.240 --> 0:14:52.570
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>But it does something and it's based on it's based on type torch slash tensor flow. So like yeah.</v>
+
+0:14:45.920 --> 0:14:46.730
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>So like.</v>
+
+0:14:53.980 --> 0:14:56.990
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Is it a It's this is pre trained that you're just using.</v>
+
+0:14:55.120 --> 0:14:55.420
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Oh</v>
+
+0:14:58.300 --> 0:14:58.790
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:14:59.380 --> 0:15:1.20
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>And you're not feeding it anything.</v>
+
+0:15:1.610 --> 0:15:2.80
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Yourself.</v>
+
+0:15:2.30 --> 0:15:9.850
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>No, I I didn't write anything. I just using different model 'cause I'm like it's going to it. I don't think it's worth spending the time trying to like train it so.</v>
+
+0:15:10.310 --> 0:15:10.750
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:15:12.510 --> 0:15:12.810
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>OK.</v>
+
+0:15:15.710 --> 0:15:16.950
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>Yep yeah.</v>
+
+0:15:17.520 --> 0:15:24.610
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>But like based on it's like these like it's like made by Google researchers, so I think it's like you said, at least, but I don't know if it's good.</v>
+
+0:15:17.970 --> 0:15:18.390
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>OK.</v>
+
+0:15:28.440 --> 0:15:38.110
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Things people understand, like a few features that we might want to look at is is that meeting minutes. I mean like meeting notes, right? Like have you guys seen that like you?</v>
+
+0:15:37.560 --> 0:15:40.370
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, I don't think I know anybody that used.</v>
+
+0:15:39.390 --> 0:15:52.880
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>I I ask every single person I talked to their like I absolutely don't use that and and part of part of the reason why is because it is just really crappy in terms of collaborating with people an its an latency is really poor.</v>
+
+0:15:44.690 --> 0:15:45.320
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:15:50.800 --> 0:15:51.300
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:15:53.630 --> 0:16:3.60
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, so I. I feel like yeah, it's definitely not a good tool, but it's something like they brought up. I feel like the teams guy wanted us to try to use it more.</v>
+
+0:16:4.230 --> 0:16:21.160
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>I just have Angela, is it? But it might be useful like as somewhere to populate if like we don't want to like use like develop something to use this email. For example right like we can just populate the meeting minutes through the bot if that's available through an API.</v>
+
+0:16:19.790 --> 0:16:20.580
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>Also.</v>
+
+0:16:21.840 --> 0:16:26.940
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>It's done OK, like I've only looked at this for like 20 minutes, but based on what I've seen for the teams API.</v>
+
+0:16:27.230 --> 0:16:27.590
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:16:27.540 --> 0:16:42.210
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>I don't think there's capability to integrate to like what these things. I think it only can. You can either make three things you gotta make it like a bot. So like you have a conversation with it, or you make like cards you can put into the chat, but I don't think you can actually like manipulate like.</v>
+
+0:16:35.520 --> 0:16:36.0
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:16:41.840 --> 0:16:42.980
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Like anything, yeah.</v>
+
+0:16:42.900 --> 0:16:50.130
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>The UI, like in terms of by. Obviously like we can do more because we're Microsoft Internal, so technically can like modify the source code if you want to, but like.</v>
+
+0:16:44.100 --> 0:16:44.380
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>OK.</v>
+
+0:16:50.730 --> 0:16:56.380
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>I'm saying based like if you're only using the API framework, I don't let you can like control a lot of things in teams.</v>
+
+0:16:56.920 --> 0:17:6.180
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>So what can go is it look like what's the input to the to the API? Like is it only dependent on the bot chat or can we feed it?</v>
+
+0:16:57.480 --> 0:16:58.140
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>Kind of limited.</v>
+
+0:17:6.730 --> 0:17:8.390
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Pretty much anything. Just do that.</v>
+
+0:17:8.190 --> 0:17:8.890
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>It's like.</v>
+
+0:17:9.610 --> 0:17:19.300
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>There's like a like a sub menu like you see like the OR like the dot dot dots and like your chat menus like you can add like you can add a teams app to it right? There's like that.</v>
+
+0:17:19.450 --> 0:17:20.810
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Sweet OK yeah.</v>
+
+0:17:20.260 --> 0:17:33.970
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>And then there's like after conversation, but it's like I don't think any of it is like you have like physically invoke. I don't think you can actually like link it to a teams conversation like I don't think I actually like read once in a teams conversation, at least from what I've seen so far.</v>
+
+0:17:34.870 --> 0:17:36.220
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Can we do something like?</v>
+
+0:17:35.200 --> 0:17:38.280
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>So you have to like physically, do it or something, yeah?</v>
+
+0:17:35.300 --> 0:17:35.760
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:17:38.700 --> 0:17:47.320
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Could we do something like, you know we user opt in for transcribed user downloads transcript and then and then uploads it to this app and then.</v>
+
+0:17:48.260 --> 0:17:48.700
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:17:49.290 --> 0:17:57.50
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>As in like why the model I create that I cannot just like, I could potentially just make a service in Azure with like for it if we need to, yeah.</v>
+
+0:17:49.670 --> 0:17:50.180
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:17:56.260 --> 0:17:56.670
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Ah.</v>
+
+0:17:57.510 --> 0:18:4.620
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, we could just do everything incrementally, right? Like just like whatever is the easiest. Like you know, like shotty thing to do to get it working.</v>
+
+0:18:2.320 --> 0:18:2.630
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>But</v>
+
+0:18:6.350 --> 0:18:17.670
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>I feel like, um, for the actual presentation like I feel like I'll just be the mocks. So I'm just trying to. I'm just doing this to see if it's like possible or like a proof of concept that thing, yeah?</v>
+
+0:18:9.210 --> 0:18:9.580
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:18:18.0 --> 0:18:28.680
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, yeah, like like I think like it makes sense to just do the two workstreams, right? Like we'll go ahead. Get as far as we can with what you're building at the same time, just like make some mocks. Yeah, I hope.</v>
+
+0:18:23.280 --> 0:18:23.720
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:18:27.860 --> 0:18:37.440
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, especially 'cause like the presentations only one to three minutes. I don't think they value the demo that hard. Like if they value demo more than I probably put more effort into the actual demo for you.</v>
+
+0:18:38.970 --> 0:18:39.450
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Sounds good.</v>
+
+0:18:41.130 --> 0:18:41.650
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Ah.</v>
+
+0:18:44.150 --> 0:18:46.920
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, I I don't know anybody else wanna say something?</v>
+
+0:18:47.520 --> 0:18:49.860
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Wait, Steven, you call on me.</v>
+
+0:18:48.160 --> 0:18:48.640
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Hey.</v>
+
+0:18:51.60 --> 0:18:54.370
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>You could call on yourself. You're all grown adults.</v>
+
+0:18:52.760 --> 0:19:0.490
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>No, but I I thought I thought you were gonna call. I'm so sad OK I can show you what I what I worked on today. I also did work OK.</v>
+
+0:18:59.620 --> 0:19:0.120
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Oh</v>
+
+0:19:1.350 --> 0:19:15.270
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>So I I mainly worked on the Spec. Um, I don't know if it makes sense for like a review to happen now, but I can like share. I'll just make sure like briefly share what I have. Give me a second.</v>
+
+0:19:2.70 --> 0:19:2.490
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>Oh</v>
+
+0:19:10.320 --> 0:19:10.640
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>yeah.</v>
+
+0:19:16.250 --> 0:19:20.0
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>I also forgot I started the presentation. I just put the outline I didn't like. Put any concepts.</v>
+
+0:19:20.770 --> 0:19:25.20
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah is that. Is that somewhere shareable or you have it on your local?</v>
+
+0:19:20.940 --> 0:19:21.410
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:19:21.490 --> 0:19:22.420
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>I just like.</v>
+
+0:19:24.490 --> 0:19:25.320
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, I've put it.</v>
+
+0:19:25.880 --> 0:19:28.160
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>I put it on my one drive so shareable.</v>
+
+0:19:28.490 --> 0:19:29.440
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>OK OK yeah.</v>
+
+0:19:29.930 --> 0:19:30.240
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:19:31.220 --> 0:19:48.690
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>OK, so um spec here. Most of it, I'm just kind of like put some like basic stuff in here. So for the first part but some like generic gibberish. I feel like said would probably have more information to put in like this. This like section here. Maybe actually if you like all this area Yeah.</v>
+
+0:19:46.670 --> 0:19:47.100
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:19:49.150 --> 0:19:58.10
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, we we put some stuff in our in our project description as well. Like we could just merge everything. Yeah, I was just going to put this before the meeting but yeah.</v>
+
+0:20:8.90 --> 0:20:32.740
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Flow of what the user would do on what like our our like plugins slash like a I would do and so, um, I don't think it makes sense for me to go into too much detail like it's there, but like this, just like it's I would say this like probably like 70% complete right now. There's like probably some small details that I think would be good to integrate with like whatever research said had like done.</v>
+
+0:20:14.570 --> 0:20:15.40
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>What?</v>
+
+0:20:35.370 --> 0:20:35.890
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:20:36.500 --> 0:20:37.580
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, just like some.</v>
+
+0:20:36.820 --> 0:20:37.550
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>OK, cool.</v>
+
+0:20:39.40 --> 0:20:46.990
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>General stuff and then the only section here. I guess like sharing will probably under working on like the wireframes section, but.</v>
+
+0:20:47.550 --> 0:20:47.980
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:20:50.290 --> 0:20:54.70
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Anyhow, that's just that's just there and like if you want to leave comments.</v>
+
+0:20:54.890 --> 0:20:55.860
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Feel free to do so.</v>
+
+0:20:57.600 --> 0:21:2.380
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Stuff that you wanted us to particularly look over, or just like, fill in the blank then.</v>
+
+0:21:1.150 --> 0:21:1.780
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:21:2.480 --> 0:21:17.340
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>I think I think would be good if you guys just like take a look at the whole requirements section. Just 'cause like I'm sure you'll have like opinions on it. And there's like some stuff that kind of left relatively bag it. Maybe I should like wait until.</v>
+
+0:21:7.30 --> 0:21:7.510
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:21:17.900 --> 0:21:33.90
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Actually, um, said if you have like your user research summary stuff done, I can like integrate the part into the requirements section. Well, like maybe if you like work on like the top section, but like the general like General overview if that would make sense.</v>
+
+0:21:33.310 --> 0:21:33.900
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:21:35.430 --> 0:21:37.110
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah yeah, I can get to that.</v>
+
+0:21:39.30 --> 0:21:43.230
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Should I buy summary like? What exactly are you looking for?</v>
+
+0:21:43.750 --> 0:22:1.30
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Um, honestly, I don't. I don't know if it's like necessary to do this, 'cause it's like a three day hackathon, but like just like talking about like the like, the problem statement and like customers. And like all that stuff like I think would be be good to like. Integrate that here just so we can take pieces and put that into like the presentation as well.</v>
+
+0:22:1.310 --> 0:22:1.840
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:22:2.960 --> 0:22:3.230
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:22:3.280 --> 0:22:11.770
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, I have everything. I have. It all written down as hypotheses, which is like how we just track should in Dev, Dev.</v>
+
+0:22:3.990 --> 0:22:4.630
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Or I'm sure.</v>
+
+0:22:12.20 --> 0:22:12.480
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:22:13.230 --> 0:22:30.520
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>And all of that is like customer hypotheses. So like who did I think the customers are? What are their motivations? And then, and what sort of problems do they face? And then I'll just tally all of the ones that I validated and invalidated, and we can use those as like a way to frame who the customer is and what their problems are.</v>
+
+0:22:30.730 --> 0:22:31.180
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:22:31.190 --> 0:22:35.810
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, yeah, we can make we can make graphs, people love graphs, you know?</v>
+
+0:22:36.110 --> 0:22:47.160
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Oh true, that be good idea. Let's add a few graphs here and there. But yeah, if you guys want like a formal review where like you put your opinions and like a meeting, we could do that tomorrow.</v>
+
+0:22:39.100 --> 0:22:39.660
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:22:48.10 --> 0:22:49.980
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>But otherwise you can just like leave comments.</v>
+
+0:22:50.700 --> 0:22:51.220
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:22:51.960 --> 0:23:4.500
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>I feel like comments or OK, I don't know. I don't like Jeffrey when we look at the like the actual prototype, do we think like we need a reviewed spec or can we just like build off of what's there?</v>
+
+0:23:6.580 --> 0:23:7.950
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>Then just build up with their.</v>
+
+0:23:9.190 --> 0:23:12.830
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, we just do everything parallel. Just keep on going.</v>
+
+0:23:9.450 --> 0:23:9.920
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:23:11.920 --> 0:23:15.500
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, yeah, honestly I, I think it's fine.</v>
+
+0:23:15.720 --> 0:23:17.70
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, I think I think so too.</v>
+
+0:23:15.760 --> 0:23:16.380
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:23:17.510 --> 0:23:27.10
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>But yeah, like we, we should have like one meeting at day and just like to go over anything that needs more discussion. But just through the comments is fine to just go async, yeah?</v>
+
+0:23:25.370 --> 0:23:25.740
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:23:26.820 --> 0:23:27.230
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:23:27.140 --> 0:23:27.350
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:23:27.850 --> 0:23:29.470
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Have a standup everyday, right Steven?</v>
+
+0:23:28.280 --> 0:23:28.680
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Alright.</v>
+
+0:23:29.760 --> 0:24:1.460
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, Oh yeah, so like on that note the the UX researcher guy like he wanted to just sit in on all of our meetings. I I don't know like what that like if we want to do that or what that dynamic will be on it but he just wanted to join in on all our meetings to see really like when we do engage with Bots and just apps in general. Like what are some of the pain points that we're seeing and like? What are some of the confusing parts? So if it's too weird to have him join the standup will just be like Oh we don't have meetings like we just.</v>
+
+0:23:55.520 --> 0:23:55.860
+<v b233e3b4-795e-46a8-8693-02be3ad11a41@72f988bf-86f1-41af-91ab-2d7cd011db47>I think.</v>
+
+0:24:1.510 --> 0:24:10.760
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Do everything off line and then we could just send him a list of stuff that we had trouble with, right? So I think one of the other, yeah.</v>
+
+0:24:11.50 --> 0:24:16.90
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>So he yeah, he's trying to learn from us is what you're saying, like he's not going to help and he's just trying to.</v>
+
+0:24:11.770 --> 0:24:12.290
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>Or even.</v>
+
+0:24:14.140 --> 0:24:14.660
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:24:16.240 --> 0:24:16.930
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>And just like.</v>
+
+0:24:17.890 --> 0:24:27.150
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, so like I got him to like connect us to some teams people so I tried to extract value but he just wanted to like use of user research yeah?</v>
+
+0:24:22.390 --> 0:24:24.600
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, that's good enough.</v>
+
+0:24:27.860 --> 0:24:28.770
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>OK, makes sense.</v>
+
+0:24:29.470 --> 0:24:40.540
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>I feel like because the presentation is like the most valuable part, I feel like that given like the most amount of time, so like at least all of Wednesday. And like maybe part tomorrow.</v>
+
+0:24:34.100 --> 0:24:34.390
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:24:40.840 --> 0:24:51.900
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, yeah. So this is Jeffrey like I wanted to just go over that with you afterwards. The presentation piece and then we could like talk about it tomorrow with the rest of people. If if we need to like split that out more.</v>
+
+0:24:55.700 --> 0:24:56.940
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>OK, good shape.</v>
+
+0:24:57.440 --> 0:25:1.110
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>I feel like I wanted to work on like a like everyone thing.</v>
+
+0:25:2.130 --> 0:25:14.250
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, yeah, like I mean like what we can do is just integrate everyone's components, right? Like the design piece like Michelle can just add that section as well and then like NLP from from state and stuff.</v>
+
+0:25:2.230 --> 0:25:2.620
+<v 89cd42c2-0966-4a13-ab14-225b8207f6b7@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:25:20.70 --> 0:25:20.730
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Could not.</v>
+
+0:25:21.280 --> 0:25:24.100
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>I sent the link to it in the chat so think it'll work.</v>
+
+0:25:27.580 --> 0:25:28.50
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Alright.</v>
+
+0:25:28.900 --> 0:25:30.690
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>A anything else?</v>
+
+0:25:33.180 --> 0:25:37.50
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>OK, so so we got a transcription. Now that we can use.</v>
+
+0:25:36.540 --> 0:25:38.590
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah I can. I can send it over.</v>
+
+0:25:39.150 --> 0:25:39.970
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, that's right.</v>
+
+0:25:39.180 --> 0:25:39.650
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah.</v>
+
+0:25:42.90 --> 0:25:42.760
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>I don't know.</v>
+
+0:25:42.430 --> 0:25:44.280
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, yeah would be kind of weird.</v>
+
+0:25:46.40 --> 0:25:52.780
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>All right, OK? Well, I'll set up a meeting for tomorrow. Um and then yeah, well meat then.</v>
+
+0:25:53.620 --> 0:26:0.430
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>All right, good work team. We need to come up with like a slogan or something. Oh yeah, we need team photo so I don't know how that's gonna work.</v>
+
+0:25:59.700 --> 0:26:1.810
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Oh, OK.</v>
+
+0:26:0.930 --> 0:26:2.400
+<v 88b66bf7-d0d1-4ed1-bb80-ce79d271ac2a@72f988bf-86f1-41af-91ab-2d7cd011db47>Hey, just figure it out.</v>
+
+0:26:2.360 --> 0:26:4.510
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Yeah, let's take a screenshot of this meeting and then.</v>
+
+0:26:6.670 --> 0:26:7.330
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Sounds good.</v>
+
+0:26:8.180 --> 0:26:9.860
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>OK, all right take I guess.</v>
+
+0:26:10.300 --> 0:26:10.830
+<v b233e3b4-795e-46a8-8693-02be3ad11a41@72f988bf-86f1-41af-91ab-2d7cd011db47>My guys.</v>
+
+0:26:10.370 --> 0:26:12.330
+<v 68f0e9b4-d6de-4cad-9c2a-9b587e97837f@72f988bf-86f1-41af-91ab-2d7cd011db47>Hey by.</v>
+
+0:26:10.670 --> 0:26:11.490
+<v cc8e364a-44c1-4719-94fe-0be3016912cd@72f988bf-86f1-41af-91ab-2d7cd011db47>Already there.</v>
