@@ -5,6 +5,10 @@ from transcribe import transcribe_text, summarize_text
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = "./raw_transcripts"
 
+@app.route("/")
+def hello_world():
+    return "hello world from Kalmiya API"
+
 @app.route("/summarize", methods=['POST'])
 def summarize():
     if request.method != 'POST' or 'transcript' not in request.files:
