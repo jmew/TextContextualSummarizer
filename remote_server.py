@@ -68,7 +68,7 @@ def summarize():
     return make_response(jsonify(response_body), 200)
 
 @app.route("/url_summarize", methods=['POST'])
-def summarize():
+def url_summarize():
     if request.method != 'POST' or not request.is_json:
         response_body = {
             "message": "Invalid request method or request is not JSON.",
